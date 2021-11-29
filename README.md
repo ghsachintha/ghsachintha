@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sachintha nuwan kumara
+- 👋 Hi, I’m Sachintha Nuwan Kumara!
 - 👀 I’m interested in front-end development and UI/UX design
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on ...
